@@ -15,13 +15,14 @@ A través de diagramas BPMN e IDEF0, se mapeó el flujo operativo vigente, evide
 *   Alta dependencia de procesos y validaciones manuales.
 *   Ausencia de herramientas centralizadas para el control de inventarios.
 *   Comunicación ineficiente y tiempos de respuesta prolongados para soporte técnico.
-![Diagrama_AS-IS](Diagramas/Diagramas_AS-IS.png)
+![Diagrama AS-IS](Diagramas/Diagrama_AS-IS.png)
 
 ### 2. Diseño del Sistema Optimizado (TO-BE)
 Se propuso la conceptualización de una plataforma digital centralizada que redefine la interacción de los usuarios (estudiantes y docentes) con los recursos de la facultad.
 *   **Automatización:** Flujos de validación inmediata para verificar identidad y disponibilidad en tiempo real.
 *   **Cronograma Dinámico:** Asignación automática de horarios para evitar colisiones y maximizar la utilización del espacio.
 *   **Trazabilidad y Mantenimiento:** Integración de un módulo predictivo para gestionar incidencias técnicas de forma proactiva.
+![Diagrama TO-BE](Diagramas/Diagrama_TO-BE.png)
 
 ## Documentación del Proyecto
 La investigación detallada, que incluye las matrices de diagnóstico, entrevistas a usuarios clave, los esquemas visuales y la formulación de los KPIs, está disponible en el reporte completo:
